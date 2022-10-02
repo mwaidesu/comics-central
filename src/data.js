@@ -25,22 +25,22 @@ export const sliderItems = [
   export const categories = [
     {
       id: 1,
-      img: "https://images.pexels.com/photos/7809122/pexels-photo-7809122.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      img: "https://i.pinimg.com/736x/5d/69/f4/5d69f4d4fc4bb05b2f94f5930e120045.jpg",
       title: "MARVEL!",
     },
     {
       id: 2,
-      img: "https://images.unsplash.com/photo-1601645191163-3fc0d5d64e35?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+      img: "https://i.pinimg.com/736x/d5/1a/79/d51a791f8981b32f447befe23d27ff36--superman-poster-batman-vs-superman.jpg",
       title: "DC COMICS",
     },
     {
       id: 3,
-      img: "https://images.unsplash.com/photo-1531501410720-c8d437636169?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+      img: "https://www.absoluteanime.com/naruto/pein.jpg",
       title: "JAPANESE MANGA",
     },
     {
         id: 4,
-        img: "https://cutewallpaper.org/28/cool-manhwa-wallpaper/best-wallpaper-ever-rmanhwa.png",
+        img: "https://i.pinimg.com/originals/71/37/9f/71379f1e18588d8e604d089e5ba5f40a.jpg",
         title: "KOREAN MANHWA"
       },
   ];
