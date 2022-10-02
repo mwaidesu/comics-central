@@ -4,7 +4,7 @@ import {categories} from "../data"
 
 const Categories = () => {
   return (
-    <div className="styled-container flex justify-between">
+    <div className="styled-container flex flex-wrap justify-between">
         {categories.map(item =>(
             <CategoryItem item={item} key={item.id}/>
         ))}
