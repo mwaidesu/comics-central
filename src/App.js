@@ -1,10 +1,10 @@
-import Home from "./pages/Home";
+import SingleComic from "./pages/SingleComic";
 
 
 function App() {
   return (
     <div className="App">
-     <Home/>
+     <SingleComic/>
     </div>
   );
 }

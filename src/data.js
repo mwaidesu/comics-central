@@ -30,7 +30,7 @@ export const sliderItems = [
     },
     {
       id: 2,
-      img: "https://i.pinimg.com/736x/d5/1a/79/d51a791f8981b32f447befe23d27ff36--superman-poster-batman-vs-superman.jpg",
+      img: "https://wallpapercave.com/wp/wp6155462.jpg",
       title: "DC COMICS",
     },
     {
